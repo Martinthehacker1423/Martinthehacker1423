@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Martinthehacker1423
+- 👋 Hi, I’m @Martinthehacker1423, you can call me Martin or Mei
 - 👀 I’m interested in Cybersecurity and system Exploitation/AI security
 - 🌱 I’m currently learning CWEE HTB
 - 💞️ I’m looking to collaborate on hackerone
